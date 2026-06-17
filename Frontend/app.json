@@ -24,6 +24,12 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "plugins": []
+    "plugins": [],
+    "extra": {
+      "eas": {
+        "projectId": "b5e2c3b1-cfdc-407b-8d70-542dc19809f9"
+      }
+    },
+    "owner": "henil846"
   }
 }

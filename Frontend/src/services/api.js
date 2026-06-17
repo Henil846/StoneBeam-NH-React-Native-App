@@ -13,7 +13,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 // For Android emulator use 10.0.2.2, for physical device use your local IP.
 const BASE_URL = __DEV__
   ? 'http://10.0.2.2:5000/api'   // Android emulator
-  : 'https://your-production-url.com/api';
+  : 'https://stonebeam-nh-backend.vercel.app/api';
 
 // To use with a physical device on the same Wi-Fi, replace with your local IP:
 // const BASE_URL = 'http://192.168.x.x:5000/api';

@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "StoneBeam-NH",
+    "slug": "stonebeam",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#1B2A4A",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.stonebeam.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1B2A4A"
+      },
+      "package": "com.stonebeam.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": []
+  }
+}
